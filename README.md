@@ -1,2 +1,2 @@
-# Powe-BI
+#HR Analytical Dashboard Power BI
 HR Analytical Dashboard
